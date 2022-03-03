@@ -1,0 +1,6 @@
+K:\hortek\Software\InDevelope\動態連結檔(.dll)\LaserIntFace\bin\Debug\LaserIntFace.dll
+K:\hortek\Software\InDevelope\動態連結檔(.dll)\LaserIntFace\bin\Debug\LaserIntFace.pdb
+K:\hortek\Software\InDevelope\動態連結檔(.dll)\LaserIntFace\obj\Debug\LaserIntFace.csprojAssemblyReference.cache
+K:\hortek\Software\InDevelope\動態連結檔(.dll)\LaserIntFace\obj\Debug\LaserIntFace.csproj.CoreCompileInputs.cache
+K:\hortek\Software\InDevelope\動態連結檔(.dll)\LaserIntFace\obj\Debug\LaserIntFace.dll
+K:\hortek\Software\InDevelope\動態連結檔(.dll)\LaserIntFace\obj\Debug\LaserIntFace.pdb
